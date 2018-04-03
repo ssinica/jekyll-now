@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3001: the final odyssey by Arthur Clarke
+title: "3001: the final odyssey by Arthur Clarke"
 published: true
 ---
 
