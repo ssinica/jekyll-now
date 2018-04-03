@@ -1,6 +1,9 @@
 ---
+layout: post
+title: Blog is moved to new platform + New agenda + Status update
 published: false
 ---
+
 ## Blog is moved to new platform + New agenda + Status update
 
 With this post I am proclamating another attempt to bring this blog to life :)
