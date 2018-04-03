@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Blog is moved to new platform + New agenda + Status update
-published: false
+title: Blog is moved to the new platform + New agenda + Status update
+published: true
 ---
-
-## Blog is moved to new platform + New agenda + Status update
 
 With this post I am proclamating another attempt to bring this blog to life :)
 
@@ -35,3 +33,9 @@ Blog is still hosted on Github pages, but now is based on Jekyll (I am using [ww
 Previously I generated blog using static blog generator I wrote myself.
 
 I am still thinking where to wtite blog posts. Right now I am using [prose.io](https://prose.io). Seems OK, but grammarly does not work :(
+
+And I still have to migrate my old blog posts. Should be easy as they are written in Markdown.
+
+# Final thoughts
+
+OK, too much words already. It is time to go to the gym. See you next time!
