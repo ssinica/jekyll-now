@@ -27,9 +27,8 @@ I have a new job - software developer at Atlassian.
 
 # Some technical details about blog
 
-Blog is still hosted by Github pages, but now is based on Jekyll (I am using [http://www.jekyllnow.com/](http://www.jekyllnow.com/)). 
+Blog is still hosted on Github pages, but now is based on Jekyll (I am using [www.jekyllnow.com](http://www.jekyllnow.com)). 
 
 Previously I generated blog using static blog generator I wrote myself.
 
-I am still thinking where to wtite blog posts. Right now I am using https://prose.io.  
-
+I am still thinking where to wtite blog posts. Right now I am using [prose.io](https://prose.io). Seems OK, but grammarly does not work :(
