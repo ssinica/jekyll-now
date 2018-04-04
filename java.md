@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Java tips and tricks
-permalink: /java/
+title: Tips and tricks
+permalink: /tips/
 ---
 
 ### 
